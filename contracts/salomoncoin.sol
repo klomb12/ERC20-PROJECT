@@ -2,6 +2,7 @@
 pragma solidity >=0.4.22 <0.9.0;
 
 // interface du contract
+// commit
 
 interface IERC20 {
 function totalSupply() external view returns (uint256);
